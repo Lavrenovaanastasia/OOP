@@ -27,7 +27,6 @@
 
   ![image](https://github.com/Lavrenovaanastasia/OOP/blob/main/%D0%BE%D0%BE%D0%BF.png?raw=true)
 
-# Классы
-![image](https://github.com/Lavrenovaanastasia/OOP/assets/125998621/e17a2c48-c7b2-4b67-9bed-dd6ff4ca2be9)
 
+![image](https://github.com/Lavrenovaanastasia/OOP/blob/main/kl.png?raw=true)
      
