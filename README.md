@@ -28,5 +28,5 @@
   ![image](https://github.com/Lavrenovaanastasia/OOP/blob/main/%D0%BE%D0%BE%D0%BF.png?raw=true)
 
 
-![image](https://github.com/Lavrenovaanastasia/OOP/blob/main/kl.png?raw=true)
+![image](https://github.com/Lavrenovaanastasia/OOP/blob/main/klass.png?raw=true)
      
